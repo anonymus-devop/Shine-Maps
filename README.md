@@ -11,3 +11,4 @@ From part of this innitiative during the transition we'll updating this file!
 
 # Note #1
 Yep, i'll start using Liquid Glass design
+And also in proyect files it will using the HorizonMaps name
